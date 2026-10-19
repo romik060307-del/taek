@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rk_black">#070B15</color>
+    <color name="rk_white">#FFFDFD</color>
+    <color name="rk_blue">#5A8DFF</color>
+    <color name="rk_ink">#101827</color>
+
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#82A9FF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#080D1A</item>
+        <item name="android:navigationBarColor">#080D1A</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">#080D1A</item>
+    </style>
+</resources>
